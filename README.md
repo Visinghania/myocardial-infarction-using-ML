@@ -23,7 +23,7 @@ Evaluated the performance of trained models using metrics such as accuracy, sens
 ## Usage
 
 1.Clone the repository:
-git clone https://github.com/sidd1915/myocardial-infarction-using-ML
+git clone https://github.com/Visinghania/myocardial-infarction-using-ML
 
 2.Install the required dependencies
 
